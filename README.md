@@ -1,1 +1,1 @@
-# eth-algolab-2021
+# Algolab 2021
